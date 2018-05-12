@@ -1,0 +1,39 @@
+_repo: A-Collection-of-State-papers-Relative-to-the-First-Acknowledgment-of-the-Sovereignty-of-the-U__30872
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Adams, John
+    aliases:
+    - Novanglus
+    - United States President (1797-1801)
+    birthdate: 1735
+    deathdate: 1826
+    gutenberg_agent_id: '4660'
+    url: http://www.gutenberg.org/2009/agents/4660
+    wikipedia: http://en.wikipedia.org/wiki/John_Adams
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30872'
+  lccn: '11024300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Foreign relations -- Netherlands'
+- !lcc 'E201'
+- !lcsh 'Netherlands -- Foreign relations -- United States'
+- !lcsh 'Law'
+title: 'A Collection of State-papers, Relative to the First Acknowledgment of the
+  Sovereignty of the United States of America, and the Reception of Their Minister
+  Plenipotentiary, by Their High Mightinesses the States General of the United Netherlands
+  : to Which is Prefixed, the Political Character of John Adams, Ambassador Plenipotentiary
+  from the States of North America, to Their High Mightinesses the States General
+  of the United Provinces of the Netherlands ... Likewise, an Essay on Canon and Feudal
+  Law'
+url: http://www.gutenberg.org/ebooks/30872
